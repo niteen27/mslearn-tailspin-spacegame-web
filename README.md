@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/niteen007/Blazing%20Pizza/_apis/build/status%2Fniteen27.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/niteen007/Blazing%20Pizza/_build/latest?definitionId=4&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
